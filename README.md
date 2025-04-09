@@ -15,9 +15,9 @@ En enkel chat-applikasjon som lar brukere sende og motta meldinger i sanntid ved
 
 ## Skjermbilder
 
-![Innloggingsskjerm]("C:\Users\danie\OneDrive\Bilder\Skjermbilder\Skjermbilde 2025-04-09 143957.png") 
-![Chat-grensesnitt]("C:\Users\danie\OneDrive\Bilder\Skjermbilder\Skjermbilde 2025-04-09 143751.png") 
-![Mobil visning]("C:\Users\danie\OneDrive\Bilder\Skjermbilder\Skjermbilde 2025-04-09 144329.png")
+![Innloggingsskjerm](https://preview.redd.it/9aj5d7fp5tte1.png?width=1919&format=png&auto=webp&s=67a9eed18a50e1317de5d1e1bf4c0bdc7c74cc9b) 
+![Chat-grensesnitt](https://preview.redd.it/aqsac3fp5tte1.png?width=1918&format=png&auto=webp&s=62430a073ec06df4aa78c467d74f924eebe6967d) 
+![Mobil visning](https://preview.redd.it/fufkf3fp5tte1.png?width=523&format=png&auto=webp&s=b7656214eee1c8914ba8a86bd0a554bacdbe6014)
 
 ## Teknologier
 
